@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial on 林建甫 Jeff Lin</title>
+    <link>https://jefflinmd.com/tags/tutorial/</link>
+    <description>Recent content in Tutorial on 林建甫 Jeff Lin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jefflinmd.com/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R 基礎程式語言 (R Basic Language)</title>
+      <link>https://jefflinmd.com/post/2019/08/23/r-%E5%9F%BA%E7%A4%8E%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80-r-basic-language/</link>
+      <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jefflinmd.com/post/2019/08/23/r-%E5%9F%BA%E7%A4%8E%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80-r-basic-language/</guid>
+      <description>R: Statistical Computing and Programming Language R: Medical Statistics / Biostatistics R: 基本程式語言與統計計算 2019RC01_Intro.pdf 2019RC02_ObjectVector.pdf 2019RC03_ObjectData.pdf 2019RC04_DataStructure.pdf 2019RC05_DataBasicInputOutput.pdf 2019RC06_FunctionBasic.pdf 2019RC07_Date.pdf 2019RC08_Character.pdf 2019RC09_GraphicsHigh.pdf 2019RC10_GraphicsLow.pdf 2019RC11_Programming.pdf 2019RC12_FunctionWriting.pdf 2019RC13_MatrixAlgebra.pdf 2019RC14_Factor.pdf 2019RC15_DataManagementApply.pdf 2019RC16_CrossTable.pdf 2019RC17_StatDescFunction.pdf</description>
+    </item>
+    
+  </channel>
+</rss>

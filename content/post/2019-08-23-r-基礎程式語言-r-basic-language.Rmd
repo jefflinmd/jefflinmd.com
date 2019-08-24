@@ -1,0 +1,34 @@
+---
+title: R 基礎程式語言 (R Basic Language)
+author: 林建甫 Jeff Lin
+date: '2019-08-23'
+slug: r-基礎程式語言-r-basic-language
+categories:
+  - Example
+  - R
+tags:
+  - R
+  - Tutorial
+  - Plot
+---
+
+R: Statistical Computing and Programming Language   
+R: Medical Statistics / Biostatistics   
+R: 基本程式語言與統計計算   
+
+[2019RC01_Intro.pdf](/rbookbasic/2019RC01_Intro.pdf)   
+[2019RC02_ObjectVector.pdf](/rbookbasic/2019RC02_ObjectVector.pdf)   
+[2019RC03_ObjectData.pdf](/rbookbasic/2019RC03_ObjectData.pdf)      
+[2019RC04_DataStructure.pdf](/rbookbasic/2019RC04_DataStructure.pdf)    
+[2019RC05_DataBasicInputOutput.pdf](/rbookbasic/2019RC05_DataBasicInputOutput.pdf)    
+[2019RC06_FunctionBasic.pdf](/rbookbasic/2019RC06_FunctionBasic.pdf)    [2019RC07_Date.pdf](/rbookbasic/2019RC07_Date.pdf)    
+[2019RC08_Character.pdf](/rbookbasic/2019RC08_Character.pdf)    
+[2019RC09_GraphicsHigh.pdf](/rbookbasic/2019RC09_GraphicsHigh.pdf)    
+[2019RC10_GraphicsLow.pdf](/rbookbasic/2019RC10_GraphicsLow.pdf)    
+[2019RC11_Programming.pdf](/rbookbasic/2019RC11_Programming.pdf)    
+[2019RC12_FunctionWriting.pdf](/rbookbasic/2019RC12_FunctionWriting.pdf)    
+[2019RC13_MatrixAlgebra.pdf](/rbookbasic/2019RC13_MatrixAlgebra.pdf)    
+[2019RC14_Factor.pdf](/rbookbasic/2019RC14_Factor.pdf)    
+[2019RC15_DataManagementApply.pdf](/rbookbasic/2019RC15_DataManagementApply.pdf)    
+[2019RC16_CrossTable.pdf](/rbookbasic/2019RC16_CrossTable.pdf)     
+[2019RC17_StatDescFunction.pdf](/rbookbasic/2019RC17_StatDescFunction.pdf)    

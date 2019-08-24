@@ -1,0 +1,22 @@
+---
+title: 迴歸分析 Regression Analysis
+author: 林建甫 Jeff Lin
+date: '2019-08-23'
+slug: 迴歸分析-regression-analysis
+categories:
+  - 迴歸分析
+  - Regression Analysis
+  - R
+  - Example
+tags:
+  - 迴歸分析
+  - Regression Analysis
+  - R
+  - Example
+---
+
+![](/regression/2017RegressionCover.jpg){width=20%}    
+迴歸分析 Regression Analysis (2017)    
+作者: 林建甫, Jeff Lin, MD, PhD.出版: 淐海書局, 2017     
+[目錄 Table of Contents](/regression/2017RegBookTOC.pdf)    
+[資料檔案 Data](/regression/2017RegBookData.rar)    
